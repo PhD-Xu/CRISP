@@ -1,2 +1,2 @@
-# DPA-VQA
+# CMR-VQA
 The Code will be released coming soon.
