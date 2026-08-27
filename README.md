@@ -1,3 +1,4 @@
+
 # CRISP: Cross-Modal Residual Guidance and Spatial Realignment for Remote Sensing Visual Question Answering
 
 
@@ -6,7 +7,7 @@
 
 <!-- 1. 模型架构图位置 -->
 <p align="center">
-  <img src="docs/crisp_architecture.png" alt="CRISP Architecture" width="100%">
+  <img width="2693" height="1477" alt="frame" src="https://github.com/user-attachments/assets/fdf8eee6-2621-41df-89a7-7db0487cfbeb" />
 </p>
 
 ---
@@ -15,12 +16,23 @@
 
 ### Experimental Results on Remote Sensing VQA Benchmarks
 
+#### RSVQA-LR
 <!-- 2. 实验结果图表位置（可放图片或 Markdown 表格） -->
 <p align="center">
-  <img src="docs/crisp_results.png" alt="Experimental Results" width="100%">
+  <img width="1034" height="306" alt="image" src="https://github.com/user-attachments/assets/fc478881-4a24-461b-b147-49f2eead2baa" />
 </p>
 
 
+#### RSVQA-HR Test1
+<p align="center">
+  <img width="1027" height="301" alt="image" src="https://github.com/user-attachments/assets/d120c357-732d-4a18-810c-49387e1df7de" />
+</p>
+
+
+#### RSVQA-HR Test2
+<p align="center">
+  <img width="1028" height="302" alt="image" src="https://github.com/user-attachments/assets/8feea79d-f52a-47f5-a011-6ba4457348c6" />
+</p>
 
 ---
 
