@@ -1,6 +1,10 @@
 
 # CRISP: Cross-Modal Residual Guidance and Spatial Realignment for Remote Sensing Visual Question Answering
 
+# 📢 Abstract
+
+Remote sensing visual question answering (RSVQA) remains challenging because the evidence relevant to the question in remote sensing imagery is typically sparse, spatially dispersed and highly variable in scale and layout. This structural heterogeneity poses a major challenge to existing transfer strategies, which often struggle to achieve effective query-conditioned semantic focusing and localized spatial refinement. To address this issue, we propose CRISP, a task-specific parameter-efficient adaptation framework for RSVQA built on a frozen ViLT backbone. CRISP comprises two complementary components. First, a Cross-Modal Residual Guidance (CMRG) module generates instance-specific guidance tokens from pooled image and question summaries, steering early cross-modal interaction toward queryrelevant content while suppressing background interference. Second, an Attention-Guided Spatial Realignment (ASR) module performs offset-guided feature realignment within intermediate Transformer layers, enabling localized refinement of spatial evidence under scale variation and sparse semantic distribution. Extensive experiments on the RSVQA-LR and RSVQA-HR benchmarks show that CRISP achieves strong overall performance and consistently improves overall accuracy and average accuracy over prior methods, with particularly notable gains on presence, comparison, and region-related questions. These results demonstrate that residual guidance and spatial realignment together provide an effective task-specific parameter-efficient adaptation strategy for RSVQA under the frozen-backbone setting. 
+
 
 
 # 🌟 Simple Baseline Model CRISP
